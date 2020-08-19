@@ -1,2 +1,2 @@
-# analytics_projects
-Personal data analytics projects
+# Analytics Projects
+This repository contains my personal and academic data analytics projects
